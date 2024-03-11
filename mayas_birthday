@@ -1,0 +1,32 @@
+<html>
+<head>
+<style>
+h1 {text-align: center;}
+ a {text-align: center;}
+</style>
+</head>
+ 
+<body style="background-color:LightPink;">
+  
+<h1> Happy Birthday!🥳</h1>
+  
+<div style="float: left; width: 50%">
+  <p> You are such a fantastic friend! Thank you for always being there for a fun convo/ chill (love a good chill) or a heartfelt talk.
+  </p>
+ </div>  
+  
+<div style="float: left; width: 100%">
+<h2> Here's a classicly good maya song!</h2>
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/7lQgoAWAFAo0XW7dW2TL1y?utm_source=generator&theme=0" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy">
+ </div> 
+  
+<div style="float: left; width: 50%">
+  <p>Hope you like it, because here is you birthday gift from your friends!:</p>
+  <a href="https://www.sethmcgregor.com/vampire_weekend" target="_blank"> Maya's Birthday Event</a>
+ <p>Best,</p>
+ <p>Seth & Layla</p>
+ </div>
+  
+
+</body>
